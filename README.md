@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhila Manoharan
-- 👀 I’m interested in IT field such as machine learning,web development,& in architecture, health care,agro industries.
+- 👀 I’m interested in IT field such as machine learning,web development,& in architecture,agro industries.
 - 🌱 I’m currently pursuing Btech in Computer Science and Engineering from Cochin University of Science And Technology, Kalamassery 
 - 💞️ I’m looking to collaborate on companies that provide internships on various fields such as web development, digital marketing , buisiness management ....
 
