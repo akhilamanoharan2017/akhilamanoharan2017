@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akhila Manoharan
-- 👀 I’m interested in IT field such as machine learning,web development,& in architecture,agro industries.
-- 🌱 I’m currently pursuing Btech in Computer Science and Engineering from Cochin University of Science And Technology, Kalamassery 
-- 💞️ I’m looking to collaborate on companies that provide internships on various fields such as web development, digital marketing , buisiness management ....
+- 👀Interested in IT field such as machine learning,web development,& in architecture,agro industries.
+- 🌱 Pursuing Btech Computer Science and Engineering from Cochin University of Science And Technology, Kalamassery 
+- 💞️ I’m looking to collaborate on companies that provide internships on various fields such as web development,Data Science, digital marketing , buisiness management ....
 
 - 📫 How to reach me : akhilamanoharan2017@gmail.com
 
